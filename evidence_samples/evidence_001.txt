@@ -1,0 +1,7 @@
+BEI-2026 - DIGITAL EVIDENCE SAMPLE
+
+Evidence ID: BEI-EV-001
+Evidence Type: Text File
+Description: Simulated digital evidence for SHA-256 integrity testing.
+Collection Status: Simulated
+Purpose: Testing evidence hashing and verification.

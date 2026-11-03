@@ -1,0 +1,13 @@
+{
+  "contractName": "EvidenceRegistry",
+  "version": "Chain of Custody",
+  "contractAddress": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+  "transactionHash": "0xb175abe3c7be80baa572f1d58961ea1e996d66661e429aee2c42928180506854",
+  "blockNumber": 5,
+  "gasUsed": "1415407",
+  "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "chainId": "31337",
+  "bytecodeVerified": true,
+  "deploymentStatus": "SUCCESS",
+  "deployedAt": "2026-11-03T09:34:23.513Z"
+}

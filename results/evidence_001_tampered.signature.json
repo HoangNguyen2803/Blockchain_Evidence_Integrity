@@ -1,0 +1,13 @@
+{
+    "signature_algorithm": "Ed25519",
+    "payload": {
+        "evidence_id": "BEI-EV-001",
+        "file_name": "evidence_001.txt",
+        "size_bytes": 237,
+        "hash_algorithm": "SHA-256",
+        "sha256": "8c57c5653f1b0f1f25dd86068951742b5e4bfc2b968addfd7e5afab2ac7e72f7",
+        "signed_at_utc": "2026-11-02T09:05:59.207456+00:00"
+    },
+    "signature_base64": "A/JW0Z9w7Zx5lSRKdRsgYRV1WyAg61Nr3ThfKjbgJs6wzbRHwuOJMOa0nbr5XgPhJZNBUErU3uIj8XHeXIJaAg==",
+    "public_key_sha256": "d219c5c12d6ca95a991e61994de0f142779f2c9d95fe116cbac1db43372eba0e"
+}

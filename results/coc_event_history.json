@@ -1,0 +1,35 @@
+[
+  {
+    "event": "EvidenceRegistered",
+    "evidenceId": "BEI-EV-COC-001",
+    "blockNumber": 6,
+    "transactionHash": "0x5dc6072ddcfec988b3b6ee641076541b34ae4f2454c39cb46a7665d53f86605c",
+    "timestamp": "2026-11-03T09:48:09.000Z",
+    "details": {
+      "sha256Hash": "0x8c57c5653f1b0f1f25dd86068951742b5e4bfc2b968addfd7e5afab2ac7e72f7",
+      "registeredBy": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    }
+  },
+  {
+    "event": "HandoverInitiated",
+    "evidenceId": "BEI-EV-COC-001",
+    "blockNumber": 7,
+    "transactionHash": "0xd8424d6b9e2cccd651adf773711f6217bb8ef282912bb7dc2889a57481c55eb7",
+    "timestamp": "2026-11-03T09:48:10.000Z",
+    "details": {
+      "fromCustodian": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+      "toCustodian": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    }
+  },
+  {
+    "event": "HandoverAccepted",
+    "evidenceId": "BEI-EV-COC-001",
+    "blockNumber": 8,
+    "transactionHash": "0x28553005c18a5c52cb7807cef0399d0cb1c65a0ff9e419a0d377aceb08f40285",
+    "timestamp": "2026-11-03T09:48:11.000Z",
+    "details": {
+      "fromCustodian": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+      "toCustodian": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    }
+  }
+]
